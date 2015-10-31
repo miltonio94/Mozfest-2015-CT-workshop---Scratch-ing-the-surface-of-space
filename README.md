@@ -31,7 +31,7 @@ Will start of by testing our sense hat to make sure it's been connected alright 
 8. Click on the little **white box** at the end of the **set** block, the one with the number **0** in it. Everything should now be highlighted blue, now type in **SenseHat**.
 
 Congrats You've just set up the sense hat on scratch. You should have something like this on your screen
-![sense hat setup](pics/senseHatSetUp.png)
+![sense hat setup](pics/senseHatSetup.png)
 
 Now lets test the sense hat.
 
