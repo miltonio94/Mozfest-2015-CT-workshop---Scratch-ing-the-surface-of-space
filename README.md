@@ -42,12 +42,12 @@ Now lets test the sense hat.
 4. Now name the message **Sweep**, now it's really important that you **spell sweep just as i did** including the capital letter. Now press Ok to finish it off.
 ![Sweep broadcast message](pics/messageNameSweep.png)
 5. We've done it. All we need to do now is press the **green flag button** to see the results. You should see your sense hat start to light up row by row.
-![sense hat pic sweep mode](pics/)
+![sense hat pic sweep mode](pics/senseHatSweepMode.png)
 
 But now you see we have a problem. The LEDs are not turning off. This is a problem if we want to do anything with the sense hat's LEDs.
 
 To fix this all we need to do is create a new **broadcast** with the message **Clear**. Look at the previous steps that we used to create the first broadcast. Use those steps to create a new broadcast, but this time give the message the name Clear instead of Sweep.
 You should have something looking like this:
-![End of sense hat test](pics/endOfTestenseHat.png)
+![End of sense hat test](pics/endOfTestSenseHat.png)
 
 Now run the program and see how it turns off all the LEDs after they all turn on.
